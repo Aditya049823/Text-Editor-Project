@@ -6,7 +6,7 @@ a)Modifying/Changing Font Size
 
 b)Can also choose different Fonts available.
 
-Save Functionality: It will enable a user to save a file wriiten on text-editor within the ide.
+Save Functionality: It will enable a user to save a file written on text-editor within the ide.
 
 Exit Functionality: Exits the editor upon clicking the exit button.
 
